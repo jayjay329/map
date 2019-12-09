@@ -1,0 +1,9 @@
+Credit @TXARMYOWENS
+
+How to Install:
+
+Client Side:
+Copy & Paste The citizen Folder To Your [FiveM Application Data] Folder.
+
+Facts:
+If you see the Orginal GTA map when you zoom in you did not put the mapzoomdata.meta into your files.
